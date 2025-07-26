@@ -1,0 +1,6 @@
+python rag_app.py
+
+Ollama cmd 
+ollama run llama3.1
+
+
